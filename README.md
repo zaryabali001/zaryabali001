@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 MERN Stack Developer | Full-Stack Engineer<br>Passionate about building scalable and efficient web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in creating modern, user-friendly, and high-performance solutions. Always learning, always coding.<br><br>💡 Skills: MERN Stack | Next.js | Redux | Tailwind CSS | Firebase | REST APIs<br>🔨 Projects: E-commerce, SaaS Platforms, AI-integrated Web Apps<br>🌍 Open to collaboration on exciting projects<br><br>Let's build something amazing! 🚀<br>📩 Let's connect: azaryab820@gmail.com
+🚀 MERN Stack Developer | Full-Stack Engineer<br>Passionate about building scalable and efficient web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in creating modern, user-friendly, and high-performance solutions. Always learning, always coding.<br><br>💡 Skills: MERN Stack | Next.js | Redux | Tailwind CSS | SQL | NO SQL | REST APIs<br>🔨 Projects: E-commerce, SaaS Platforms, AI-integrated Web Apps<br>🌍 Open to collaboration on exciting projects<br><br>Let's build something amazing! 🚀<br>📩 Let's connect: azaryab820@gmail.com
 
 
 ## 🌐 Socials:
